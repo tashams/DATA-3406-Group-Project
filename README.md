@@ -1,3 +1,6 @@
+This project was completed as part of DATA3406 at the University of Sydney, in a group of six. Our central research question was: "Do individuals get at least 15 minutes of intense activity on most days of the week?" framed around real-world physical activity guidelines, such as the Australian Government's recommendation that adults engage in 1.25–2.5 hours of vigorous exercise per week. Using fitness tracker data, we analysed day-to-day and weekly patterns in intense physical activity to assess whether people are actually meeting these benchmarks. The project involved building a data analysis pipeline in a Jupyter notebook, conducting an ethical analysis of the dataset and its implications, and collaborating through GitHub Issues and a team wiki to manage our workflow. My role in the group was Manager, where I was responsible for the Visual Descriptive Analysis, and created a range of interactive plots to engage the reader.
+---
+
 # DATA3406
 Our driving question is "Do they get at least 15 minutes of intense activity on most days of the week?".
 
